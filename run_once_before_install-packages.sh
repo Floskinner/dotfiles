@@ -13,4 +13,3 @@ sudo apt install -y \
 	bitwarden-cli
 
 pip install thefuck
-
