@@ -12,4 +12,5 @@ sudo apt install -y \
 	dust \
 	bitwarden-cli
 
+pip install thefuck
 
