@@ -12,4 +12,6 @@ sudo apt install -y \
 	dust \
 	bitwarden-cli
 
-pip install thefuck
+/home/linuxbrew/.linuxbrew/bin/brew install pipx
+pipx ensurepath
+pipx install thefuck
